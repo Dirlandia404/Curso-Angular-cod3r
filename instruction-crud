@@ -1,0 +1,8 @@
+npm init -y
+npm i json-server
+
+patch altera alguns elementos
+
+foi criado um script para transformar o arquivo db.json em uma api rest
+
+8 min
